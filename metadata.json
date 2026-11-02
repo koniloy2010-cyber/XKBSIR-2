@@ -1,0 +1,6 @@
+{
+  "name": "XKB-SIR",
+  "description": "Premium Real-Time Floating Voice Changer with live microphone effects, growling, cyber robot modulation, 3X beast intensity, and draggable overlay controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

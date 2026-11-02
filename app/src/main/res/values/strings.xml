@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">XKB-SIR</string>
+    <string name="app_subtitle">Real-Time Floating Voice Changer</string>
+    <string name="developer_name">Developer: -XKB-SIR</string>
+    
+    <!-- Statuses -->
+    <string name="status_standby">STANDBY</string>
+    <string name="status_listening">LIVE MIC ACTIVE</string>
+    <string name="status_effects_active">DSP ENGINE PROCESSING</string>
+    <string name="status_recording">RECORDING SAMPLE</string>
+    
+    <!-- Controls -->
+    <string name="btn_turn_on">START ENGINE</string>
+    <string name="btn_turn_off">STOP ENGINE</string>
+    <string name="btn_floating_enable">ENABLE FLOATING OVERLAY</string>
+    <string name="btn_floating_disable">DISABLE OVERLAY</string>
+    
+    <!-- Sliders -->
+    <string name="slider_master_gain">Master Gain</string>
+    <string name="slider_bass_boost">Bass Boost</string>
+    <string name="slider_treble_control">Treble Control</string>
+    <string name="slider_voice_compressor">Voice Compressor</string>
+    <string name="slider_distortion">Distortion</string>
+    <string name="slider_growling_intensity">Growling Intensity</string>
+    <string name="slider_robot_voice">Robot Voice</string>
+    <string name="slider_voice_vibration">Voice Vibration</string>
+    <string name="slider_noise_reduction">Noise Reduction</string>
+    <string name="slider_voice_mixing">Voice Mixing (Dry / Wet)</string>
+    <string name="slider_saturation">Saturation</string>
+    <string name="slider_audio_limiter">Audio Limiter</string>
+    
+    <!-- Presets -->
+    <string name="preset_3x_beast">3X Beast Monster</string>
+    <string name="preset_cyber_robot">Cybernetic Robot</string>
+    <string name="preset_growl_subbass">Deep Growl Sub-Bass</string>
+    <string name="preset_demon_overlord">Demon Overlord</string>
+    <string name="preset_mechanical_buzz">Mechanical Buzz Comm</string>
+    <string name="preset_clean">Clean Mic Pass-through</string>
+    
+    <!-- Floating Window -->
+    <string name="floating_logo_title">XKB-SIR De</string>
+    <string name="floating_overlay_desc">Tap to expand voice changer controls while gaming or chatting</string>
+    
+    <!-- Notification -->
+    <string name="notif_channel_name">XKB-SIR Voice Engine</string>
+    <string name="notif_channel_desc">Active microphone voice processing notification</string>
+    <string name="notif_title">XKB-SIR Voice Engine Running</string>
+    <string name="notif_text">Live real-time voice changer is active</string>
+    <string name="notif_stop">STOP</string>
+</resources>
